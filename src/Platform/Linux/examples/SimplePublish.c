@@ -7,9 +7,9 @@
 #include "CayenneMQTTClient.h"
 
 // Cayenne authentication info. This should be obtained from the Cayenne Dashboard.
-char* username = "MQTT_USERNAME";
-char* password = "MQTT_PASSWORD";
-char* clientID = "CLIENT_ID";
+char* username = "ec528690-0899-11e8-9f2a-b3b29283a596";
+char* password = "aec5f2ae6f2bdaff565b4f0b5c544a7964126996";
+char* clientID = "1d9f7be0-1105-11e8-ac3d-75f57fc470ba";
 
 Network network;
 CayenneMQTTClient mqttClient;
